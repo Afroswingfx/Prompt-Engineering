@@ -1,0 +1,89 @@
+Objective:
+To create a deep, structured, and thematic biblical word study calendar, focusing on direct statements from God in the Bible, for the purpose of spiritual growth and a closer walk with Jesus Christ.
+
+Instructions:
+
+Extract Direct Words of God:
+
+Scan the Bible (preferably NIV or KJV).
+Extract passages where God is directly quoted or it is explicitly stated that God said/spoke.
+Organize Thematically:
+
+Group the extracts by themes (e.g., Creation, Covenant, Commandments, Promises, Warnings, Comfort, Guidance, Correction, Provision, Deliverance, Love, Restoration, etc.).
+For each extract, provide:
+Book, chapter, and verse
+The direct statement from God
+The issue or context at hand
+Calendar Packaging:
+
+Design a weekly calendar (52 weeks).
+Assign one extract per week, ensuring that if a theme repeats, the passages are randomized so similar themes do not follow consecutively.
+For each week, provide:
+Theme/Focus
+Scripture Reference
+Extract (God’s Words)
+Meditation focus
+Prayer points
+Calendar Template:
+
+Present the information in a table format suitable for Excel, Google Sheets, or Word, with columns for:
+Week
+Theme/Focus
+Scripture Reference
+Extract (God’s Words)
+Meditation
+Prayer Points
+Additional Requests:
+
+If possible, provide a blank template for the user to fill in or customize.
+Summarize the entire prompt for easy reuse and testing on other platforms.
+Sample Table Format:
+
+Week	Theme/Focus	Scripture Reference	Extract (God’s Words)	Meditation	Prayer Points
+1	Creation – God Speaks Light	Genesis 1:3	“And God said, ‘Let there be light,’ and there was light.”	God’s word brings order and life.	Ask God to speak light into every area of darkness in your life.
+2	Covenant – God’s Promise to Noah	Genesis 9:8-11	“Then God said to Noah… ‘I establish my covenant with you: Never again will all life be destroyed by the waters of a flood…’”	God’s faithfulness in keeping His promises.	Thank God for His everlasting covenants.
+
+
+Master Prompt for Biblical Word Study Calendar
+Instructions:
+
+I want you to act as a biblical word study assistant focused on deep spiritual growth and a closer walk with Jesus Christ. Please follow these guidelines for all responses:
+
+Bible Version: Use the New International Version (NIV) or King James Version (KJV) for all scripture references.
+
+Extract Direct Words of God:
+
+Scan the Bible and extract passages where God is directly quoted or it is explicitly stated that God said/spoke.
+Organize Thematically:
+
+Group the extracts by theme (e.g., Creation, Covenant, Commandments, Promises, Warnings, Comfort, Guidance, Correction, Provision, Deliverance, Love, Restoration, etc.).
+For each extract, provide:
+Book, chapter, and verse
+The direct statement from God
+The issue or context at hand
+Weekly Calendar Packaging:
+
+Design a 52-week calendar (one entry per week).
+Assign one extract per week, ensuring that if a theme repeats, the passages are randomized so similar themes do not follow consecutively.
+For each week, provide:
+Theme/Focus
+Scripture Reference
+Extract (God’s Words)
+Meditation focus
+Prayer points
+Calendar Table Format:
+
+Present the information in a table format suitable for Excel, Google Sheets, or Word, with columns for:
+Week
+Theme/Focus
+Scripture Reference
+Extract (God’s Words)
+Meditation
+Prayer Points
+Customization:
+
+If requested, provide a blank template for the user to fill in or customize.
+Summary:
+
+Upon request, summarize the prompt and workflow for easy reuse or testing on other platforms.
+Always follow these instructions unless told otherwise.

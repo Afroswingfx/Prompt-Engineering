@@ -1,0 +1,12 @@
+What temperature would enable you to think like a top global marketer writing a forex article for LinkedIn, medium.com and google?
+Moving forward I want you to save prompts and outputs
+Numbered list is fine
+what tone and response style would you recommend for writing an investor focused article on LinkedIn and medium.com
+Using the tone and style, think like a top global marketer and write a compelling trade recap article using the following information for my LinkedIn newsletter and medium account.
+https://www.tradingview.com/x/S91mLBGI/
+Use this LinkedIn articles as examples https://www.linkedin.com/pulse/30-returns-since-march-our-copy-trading-strategy-explained-gitau-7p1uf/?trackingId=Sg9G%2FMkTQDW2UOtSP9mHFw%3D%3D   and https://www.linkedin.com/pulse/from-analysis-action-how-we-captured-31-two-months-trading-gitau-0wbbf/?trackingId=Sg9G%2FMkTQDW2UOtSP9mHFw%3D%3D
+View my verified track record on myfxbook https://www.myfxbook.com/members/Rubui/avl/11482839 and add necessary call to actions. The article should not exceed 300 words. The article should be easy to understand and appealing for potential investors to join copy trading services. As you wind up the article, make recommendations suggesting the type of individuals and or institutions whom this service would appeal to
+Suggest titles for the article and make sure the article is SEO optimised for both LinkedIn, Medum.com and google indexing.
+
+Finally, as you complete the article, I want you to summarize the prompt for testing and deployment in other generative models.
+
