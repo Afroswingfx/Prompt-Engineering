@@ -1,5 +1,5 @@
 # Morris Mwangi Gitau – Prompt Engineering Portfolio  
-**Certified Prompt Engineer** • Remote-Ready • 6 Real-World Use Cases  
+**Certified Prompt Engineer** • Remote-Ready • 5 Real-World Use Cases  
 
 [![Certificate](https://img.shields.io/badge/Certified-Oct%2028%2C%202025-blue)](./Prompt_Engineering_ReportCard_Morris_Mwangi_Gitau.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/morris-gitau-202b3b77)  
@@ -14,8 +14,8 @@
 | LinkedIn Article + Data Table | 12 min | [Crypto vs Forex](#01-crypto-vs-forex) |
 | Newsletter Audit + Action Plan | 8 min | [newsletter_analysis_outputv](#02newsletter_analysis_outputv1.md) |
 | Trade Recap (300 words) | 6 min | [Trade_Recap_Article_output](#03Trade_Recap_Article_output.md) |
-| Self-Assessment Prompt | 5 min | [Prompt Assessment](#05-prompt-assessment) |
-| Creative Scripture Summary | 7 min | [God Speaks](#06-god-speaks) |
+| Self-Assessment Prompt | 5 min | [Prompt Assessment](#04-prompt-assessment) |
+| Creative Scripture Summary | 7 min | [God Speaks](#05-god-speaks) |
 
 *All prompts tested on **Grok 4**, **Claude 3.5**, **GPT-4o** – outputs 100% reproducible.*
 
@@ -51,14 +51,14 @@
 </details>
 
 <details>
-<summary><b>#05 Prompt Engineering Self-Assessment</b></summary>
+<summary><b>#04 Prompt Engineering Self-Assessment</b></summary>
 
 **Goal**: Evaluate prompt engineering progress  
 [Prompt →](Prompt%20Engineering%20Assessment%20Prompt.txt) | [Output →](Prompt%20Engineering%20Assessment.md)
 </details>
 
 <details>
-<summary><b>#06 God Speaks – Direct Bible Quotes Summary</b></summary>
+<summary><b>#05 God Speaks – Direct Bible Quotes Summary</b></summary>
 
 **Goal**: Creative summary of direct divine speech in Scripture  
 [Prompt →](God%20said.txt) | [Output →](God%20said.md)
