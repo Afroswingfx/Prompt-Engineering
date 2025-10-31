@@ -12,8 +12,8 @@
 | Deliverable | Time to Draft | Example |
 |-------------|---------------|---------|
 | LinkedIn Article + Data Table | 12 min | [Crypto vs Forex](#01-crypto-vs-forex) |
-| Newsletter Audit + Action Plan | 8 min | [Newsletter Audit](#02newsletter_analysis_outputv1.md) |
-| Trade Recap (300 words) | 6 min | [CADJPY Recap](#03Trade_Recap_Article_output.md) |
+| Newsletter Audit + Action Plan | 8 min | [newsletter_analysis_outputv](#02newsletter_analysis_outputv1.md) |
+| Trade Recap (300 words) | 6 min | [Trade_Recap_Article_output](#03Trade_Recap_Article_output.md) |
 | Self-Assessment Prompt | 5 min | [Prompt Assessment](#05-prompt-assessment) |
 | Creative Scripture Summary | 7 min | [God Speaks](#06-god-speaks) |
 
