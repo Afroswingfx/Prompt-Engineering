@@ -1,0 +1,12 @@
+Prompt 1:
+Act as a historian and do a deep dive into the rise and fall of global world powers—specifically Spain, the UK, and the USA. Analyze what led to their dominance and what ultimately caused their decline, focusing on how the very methods used to rise became their undoing (the “poison pill”). Compare these with China’s rise and adaptation. Highlight key lessons, policies, and initiatives that third world countries could adopt for sustained growth. Correct any historical inaccuracies in my summary. Make the analysis thought-provoking, under 500 words, and include humor and sarcasm.
+
+Prompt 2:
+Amend the previous article by adding the specific dates and centuries when these events occurred. If there was a war of transition between Spain, the UK, and the USA, include it. Ensure the timeline and historical context are clear.
+
+Prompt 3:
+Transition to a creative movie director and write a summary script for a production that serves as an educational piece based on the previous analysis. Make it engaging and suitable for a docu-drama with humor and clear lessons.
+
+Prompt 4:
+Summarize all the above prompts in a concise format for easy testing and comparison on other platforms.
+
