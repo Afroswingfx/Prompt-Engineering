@@ -1,5 +1,5 @@
 # Morris Mwangi Gitau – Prompt Engineering Portfolio  
-**Certified Prompt Engineer** • Remote-Ready • 5 Real-World Use Cases  
+**Certified Prompt Engineer** • Remote-Ready • 6 Real-World Use Cases  
 
 [![Certificate](https://img.shields.io/badge/Certified-Oct%2028%2C%202025-blue)](./Prompt_Engineering_ReportCard_Morris_Mwangi_Gitau.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/morris-gitau-202b3b77)  
@@ -89,14 +89,14 @@ Markdown / HTML      ███████████████ 100%
 Grok 4 API           ██████████████▒  98%
 Claude 3.5           ████████████▒▒  92%
 SEO Optimization     ████████████▒▒  91%
-#07 Empire Analysis – The Imperial Boomerang (Nov 1)
-Goal: Historical deep dive analyzing rise/fall patterns of global powers (Spain, UK, USA, China) with actionable lessons for emerging economies
+<details>
+<summary><b>#06 Empire Analysis – The Imperial Boomerang (Nov 1)</b></summary>
 
-Platform: Claude Sonnet 4
+**Goal**: Historical deep dive analyzing rise/fall patterns of global powers (Spain, UK, USA, China) with actionable lessons for emerging economies  
+**Platform**: Claude Sonnet 4  
+**Word count**: ~1,100 words  
 
-Word count: ~1,100 words
-
-Key features:
+**Key features**:
 - "Poison pill" concept: how empire-building strategies became their undoing
 - Specific dates, wars, and transitions (1492-present)
 - Humor/sarcasm balanced with analytical depth
@@ -104,4 +104,5 @@ Key features:
 
 **Iteration note**: Initial prompt requested "deep dive" in <500 words (impossible constraint). Refined to 1,100 words for proper analytical depth—demonstrating prompt debugging skills.
 
-[Prompt →](/Afroswingfx/Prompt-Engineering/blob/main/Empire_boomerang_prompt.txt) | [Output →](/Afroswingfx/Prompt-Engineering/blob/main/Empire_boomerang_output.txt)
+[Prompt →](Empire_boomerang_prompt.txt) | [Output →](Empire_boomerang_output.txt)
+</details>
