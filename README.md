@@ -11,10 +11,11 @@
 | Deliverable | Time to Draft | Example |
 |-------------|---------------|---------|
 | LinkedIn Article + Data Table | 12 min | [Crypto vs Forex](#01-crypto-vs-forex) |
-| Newsletter Audit + Action Plan | 8 min | [newsletter_analysis_outputv](#02newsletter_analysis_outputv1.md) |
-| Trade Recap (300 words) | 6 min | [Trade_Recap_Article_output](#03Trade_Recap_Article_output.md) |
-| Self-Assessment Prompt | 5 min | [Prompt Assessment](#04-prompt-assessment) |
+| Newsletter Audit + Action Plan | 8 min | [Newsletter Analysis](#02-linkedin-newsletter-strategic-audit) |
+| Trade Recap (300 words) | 6 min | [Trade Recap](#03-cadjpy-trade-recap-article) |
+| Self-Assessment Prompt | 5 min | [Prompt Assessment](#04-prompt-engineering-self-assessment) |
 | Creative Scripture Summary | 7 min | [God Speaks](#05-god-speaks) |
+| Empire Analysis Essay (1,100 words) | 25 min | [Imperial Boomerang](#06-empire-analysis) |
 
 *All prompts tested on **Grok 4**, **Claude 3.5**, **GPT-4o** – outputs 100% reproducible.*
 
