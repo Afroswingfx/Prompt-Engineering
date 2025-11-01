@@ -89,3 +89,19 @@ Markdown / HTML      ███████████████ 100%
 Grok 4 API           ██████████████▒  98%
 Claude 3.5           ████████████▒▒  92%
 SEO Optimization     ████████████▒▒  91%
+#07 Empire Analysis – The Imperial Boomerang (Nov 1)
+Goal: Historical deep dive analyzing rise/fall patterns of global powers (Spain, UK, USA, China) with actionable lessons for emerging economies
+
+Platform: Claude Sonnet 4
+
+Word count: ~1,100 words
+
+Key features:
+- "Poison pill" concept: how empire-building strategies became their undoing
+- Specific dates, wars, and transitions (1492-present)
+- Humor/sarcasm balanced with analytical depth
+- 6 actionable lessons for developing nations
+
+**Iteration note**: Initial prompt requested "deep dive" in <500 words (impossible constraint). Refined to 1,100 words for proper analytical depth—demonstrating prompt debugging skills.
+
+[Prompt →](/Afroswingfx/Prompt-Engineering/blob/main/Empire_boomerang_prompt.txt) | [Output →](/Afroswingfx/Prompt-Engineering/blob/main/Empire_boomerang_output.txt)
