@@ -1,6 +1,5 @@
 # Morris Mwangi Gitau – Prompt Engineering Portfolio  
-**Certified Prompt Engineer** • Remote-Ready • 6 Real-World Use Cases  
-
+**Certified Prompt Engineer** • Remote-Ready • 6 Real-World Use Cases
 [![Certificate](https://img.shields.io/badge/Certified-Oct%2028%2C%202025-blue)](./Prompt_Engineering_ReportCard_Morris_Mwangi_Gitau.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/morris-gitau-202b3b77)  
 [![Book a Gig](https://img.shields.io/badge/Book%2015%E2%80%91min%20Call-FF6F61?style=flat&logo=calendly)](https://calendly.com/morris-gitau/prompt-consult)  
