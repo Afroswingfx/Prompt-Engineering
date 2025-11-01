@@ -1,5 +1,6 @@
 # Morris Mwangi Gitau – Prompt Engineering Portfolio  
-**Certified Prompt Engineer** • Remote-Ready • 6 Real-World Use Cases
+**Certified Prompt Engineer** • Remote-Ready • 6 Real-World Use Cases  
+
 [![Certificate](https://img.shields.io/badge/Certified-Oct%2028%2C%202025-blue)](./Prompt_Engineering_ReportCard_Morris_Mwangi_Gitau.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/morris-gitau-202b3b77)  
 [![Book a Gig](https://img.shields.io/badge/Book%2015%E2%80%91min%20Call-FF6F61?style=flat&logo=calendly)](https://calendly.com/morris-gitau/prompt-consult)  
@@ -64,31 +65,6 @@
 [Prompt →](God%20said.txt) | [Output →](God%20said.md)
 </details>
 
----
-
-## My 5-Step Prompt Framework (Used in Every Example)
-
-| Step | What I Do | Why It Works |
-|------|-----------|--------------|
-| 1. **Context** | 2-sentence backstory (trader, economist, etc.) | Builds empathy & relevance |
-| 2. **Task** | “Write a LinkedIn article” | Crystal-clear objective |
-| 3. **Constraints** | Medium length, table, verifiable data | Prevents fluff |
-| 4. **Tone** | “Think like a marketer” | Aligns with audience |
-| 5. **Format** | Markdown + CTA | Ready to publish |
-
-*Download 1-page cheat sheet → [Prompt_Framework.pdf](assets/Prompt_Framework.pdf)*
-
----
-
-## Skills & Tools (Verified Oct 2025)
-
-```text
-Prompt Design        █████████████▒  95%
-Data-Driven Output   ███████████▒▒▒  90%
-Markdown / HTML      ███████████████ 100%
-Grok 4 API           ██████████████▒  98%
-Claude 3.5           ████████████▒▒  92%
-SEO Optimization     ████████████▒▒  91%
 <details>
 <summary><b>#06 Empire Analysis – The Imperial Boomerang (Nov 1)</b></summary>
 
@@ -106,3 +82,29 @@ SEO Optimization     ████████████▒▒  91%
 
 [Prompt →](Empire_boomerang_prompt.txt) | [Output →](Empire_boomerang_output.txt)
 </details>
+
+---
+
+## My 5-Step Prompt Framework (Used in Every Example)
+
+| Step | What I Do | Why It Works |
+|------|-----------|--------------|
+| 1. **Context** | 2-sentence backstory (trader, economist, etc.) | Builds empathy & relevance |
+| 2. **Task** | "Write a LinkedIn article" | Crystal-clear objective |
+| 3. **Constraints** | Medium length, table, verifiable data | Prevents fluff |
+| 4. **Tone** | "Think like a marketer" | Aligns with audience |
+| 5. **Format** | Markdown + CTA | Ready to publish |
+
+*Download 1-page cheat sheet → [Prompt_Framework.pdf](assets/Prompt_Framework.pdf)*
+
+---
+
+## Skills & Tools (Verified Oct 2025)
+```text
+Prompt Design        █████████████▒  95%
+Data-Driven Output   ███████████▒▒▒  90%
+Markdown / HTML      ███████████████ 100%
+Grok 4 API           ██████████████▒  98%
+Claude 3.5           ████████████▒▒  92%
+SEO Optimization     ████████████▒▒  91%
+```
