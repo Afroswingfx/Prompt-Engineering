@@ -1,5 +1,5 @@
 # Morris Mwangi Gitau – Prompt Engineering Portfolio  
-**Certified Prompt Engineer** • Remote-Ready • 6 Real-World Use Cases  
+**Certified Prompt Engineer** • Remote-Ready • 7 Real-World Use Cases  
 
 [![Certificate](https://img.shields.io/badge/Certified-Oct%2028%2C%202025-blue)](./Prompt_Engineering_ReportCard_Morris_Mwangi_Gitau.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/morris-gitau-202b3b77)  
@@ -11,14 +11,15 @@
 
 | Deliverable | Time to Draft | Example |
 |-------------|---------------|---------|
-| LinkedIn Article + Data Table | 12 min | [Crypto vs Forex](#01-crypto-vs-forex) |
-| Newsletter Audit + Action Plan | 8 min | [Newsletter Analysis](#02-linkedin-newsletter-strategic-audit) |
-| Trade Recap (300 words) | 6 min | [Trade Recap](#03-cadjpy-trade-recap-article) |
+| LinkedIn Article + Data Table | 12 min | [Crypto vs Forex](#01-crypto-vs-forex---linkedin-article-oct-29) |
+| Newsletter Audit + Action Plan | 8 min | [Newsletter Analysis](#02-linkedin-newsletter-strategic-audit-oct-30) |
+| Trade Recap (300 words) | 6 min | [Trade Recap](#03-cadjpy-trade-recap-article-oct-30) |
 | Self-Assessment Prompt | 5 min | [Prompt Assessment](#04-prompt-engineering-self-assessment) |
-| Creative Scripture Summary | 7 min | [God Speaks](#05-god-speaks) |
-| Empire Analysis Essay (1,100 words) | 25 min | [Imperial Boomerang](#06-empire-analysis) |
+| Creative Scripture Summary | 7 min | [God Speaks](#05-god-speaks--direct-bible-quotes-summary) |
+| Empire Analysis Essay (1,100 words) | 25 min | [Imperial Boomerang](#06-empire-analysis--the-imperial-boomerang-nov-1) |
+| Educational Research & Platform Comparison | Personal Use | [Python Course Analysis](#07-python-course-research--comparison-nov-2) |
 
-*All prompts tested on **Grok 4**, **Claude 3.5**, **GPT-4o** – outputs 100% reproducible.*
+*All prompts tested on **Grok 4**, **Claude 3.5**, **GPT-4o**, **GPT-5** – outputs 100% reproducible.*
 
 ---
 
@@ -83,6 +84,34 @@
 [Prompt →](Empire_boomerang_prompt.txt) | [Output →](Empire_boomerang_output.txt)
 </details>
 
+<details>
+<summary><b>#07 Python Course Research & Comparison (Nov 2)</b></summary>
+
+**Goal**: Deep research and comparative analysis of beginner Python courses for career transition into data science/AI  
+**Platform**: OpenAI Playground (GPT-5)  
+**Word count**: ~2,000 words  
+
+**Context**: Career pivot preparation—needed comprehensive evaluation of learning platforms with hands-on projects, progress tracking, and industry-recognized certificates.
+
+**Key features**:
+- Multi-stage prompt refinement (initial research → comparison → head-to-head analysis)
+- Evaluated 5+ platforms: Coursera, DataCamp, edX, Codecademy, Udemy
+- Deep-dive comparison: "Python for Everybody" vs "100 Days of Code"
+- Decision framework balancing credibility vs. practical portfolio building
+- Final biased recommendation with supplementary action plan
+
+**Deliverables**:
+- Comparative analysis table (5 platforms)
+- Pros/cons breakdown for each option
+- Head-to-head feature comparison with 8 criteria
+- Clear recommendation with reasoning
+- Career pivot roadmap + supplementary resources
+
+**Skills demonstrated**: Multi-criteria decision analysis, structured prompt engineering (reasoning → comparison → recommendation), educational research, long-form analytical output generation
+
+[Prompt →](python_beginner_prompt.txt) | [Output →](python_begginner_output.txt)
+</details>
+
 ---
 
 ## My 5-Step Prompt Framework (Used in Every Example)
@@ -99,12 +128,36 @@
 
 ---
 
-## Skills & Tools (Verified Oct 2025)
+## Skills & Tools (Verified Nov 2025)
 ```text
-Prompt Design        █████████████▒  95%
-Data-Driven Output   ███████████▒▒▒  90%
-Markdown / HTML      ███████████████ 100%
-Grok 4 API           ██████████████▒  98%
-Claude 3.5           ████████████▒▒  92%
-SEO Optimization     ████████████▒▒  91%
+Prompt Design          █████████████▒  95%
+Data-Driven Output     ███████████▒▒▒  90%
+Markdown / HTML        ███████████████ 100%
+Grok 4 API             ██████████████▒  98%
+Claude Sonnet 4        ████████████▒▒  92%
+GPT-5 (OpenAI)         ███████████████ 100%
+Research & Analysis    ██████████████▒  96%
+SEO Optimization       ████████████▒▒  91%
 ```
+
+---
+
+## How to Use This Portfolio
+
+**For Hiring Managers**: Each prompt-output pair demonstrates real-world problem-solving with AI. Click any example to see the exact prompt used and the deliverable produced.
+
+**For Clients**: The "TL;DR" table shows typical turnaround times. Book a 15-min consultation to discuss your specific needs.
+
+**For Learners**: Study the 5-Step Framework—it's the template behind every successful prompt in this portfolio.
+
+---
+
+## Contact
+
+📧 **Email**: morris.gitau@example.com  
+📅 **Book a Call**: [15-min consultation](https://calendly.com/morris-gitau/prompt-consult)  
+💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/morris-gitau-202b3b77)
+
+---
+
+*Last Updated: November 2, 2025*
