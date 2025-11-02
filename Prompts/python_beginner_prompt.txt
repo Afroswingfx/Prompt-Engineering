@@ -1,0 +1,26 @@
+Seek the ultimate beginner-to-advanced, in-depth, hands-on Python programming course/platform for a career change into Python/data science/AI.
+
+The prior beginner course was insufficient (for quizzes, real-world work).
+Must be comprehensive, reputable, and have the following:
+Preparation for advanced Python + real-world data science/AI
+Robust tracking, regular practical exercises, hands-on projects
+Certificate respected in the industry (for CV/LinkedIn)
+Suitable as a foundation for a new tech career Instructions:
+Deeply reason about what makes “the best” course for this context
+Compare and evaluate (e.g., Coursera, edX, Udemy, DataCamp, Codecademy…)
+Document at least three options with pros, cons, and suitability
+Only then recommend a single most appropriate course/platform, with:
+Course name, provider, direct link, features
+Reason for selection
+Any suggested resources or supplementary actions Required Output Format:
+Section 1: Reasoning (comparative, thorough, always first)
+Section 2: Recommendation (final choice, justification, and details)
+
+Compare and contrast:
+
+Coursera’s “Python for Everybody Specialization”
+Udemy’s “100 Days of Code: The Complete Python Pro Bootcamp” Specifically:
+Highlight key advantages and disadvantages of each
+Use your bias to recommend one over the other, with clear reasoning
+
+Summarize all my prompts for storage and testing
