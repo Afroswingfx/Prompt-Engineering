@@ -1,0 +1,17 @@
+You are a statistician and a researcher
+Do a deep dive and retrieve the following in tabular form for the Japan, Germany and Kenya
+1.	Total population, 2022-2024
+2.	Total number of vehicles,2022-2024
+3.	Total number of car owners (private and public) ,2022-2024
+4.	Proportion of car owners/Total population
+5.	Average age of vehicle owners,2022-2024
+6.	Total number of accidents per year, 2022-2024
+7.	Total number of accidents/Total number of car owners
+8.	Average age of drivers involved in road accidents,2022-2024
+9.	Total road fatalities per year 2022-2024
+10.	Fatalities/total number of accidents
+Prepare a table for each year. Let the countries occupy the header(columns) and variables in rows
+Infer general hypothesis for each country from the data
+
+My hypothesis is that producers/creators of technology, in this case automotive industry (Germany and Japan) have a better understanding and use of the said products compared to user countries (Kenya). The production of these technologies is accompanied by new knowledge of the limits of the product and the necessary infrastructure required to efficiently and effectively use it. Developing countries however, do not poses this knowledge because they do not produce the said technology
+Consider testing with additional data from developing economies. Let the countries occupy the header(columns) and variables in rows
