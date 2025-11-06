@@ -1,5 +1,5 @@
 # Morris Mwangi Gitau – Prompt Engineering Portfolio  
-**Certified Prompt Engineer** • Remote-Ready • 7 Real-World Use Cases  
+**Certified Prompt Engineer** • Remote-Ready • 8 Real-World Use Cases  
 
 [![Certificate](https://img.shields.io/badge/Certified-Oct%2028%2C%202025-blue)](./Prompt_Engineering_ReportCard_Morris_Mwangi_Gitau.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/morris-gitau-202b3b77)  
@@ -18,6 +18,7 @@
 | Creative Scripture Summary | 7 min | [God Speaks](#05-god-speaks--direct-bible-quotes-summary) |
 | Empire Analysis Essay (1,100 words) | 25 min | [Imperial Boomerang](#06-empire-analysis--the-imperial-boomerang-nov-1) |
 | Educational Research & Platform Comparison | Personal Use | [Python Course Analysis](#07-python-course-research--comparison-nov-2) |
+| Multi-Country Statistical Analysis | 15 min | [Road Safety Statistics](#08-road-accident-statistics--hypothesis-testing-nov-6) |
 
 *All prompts tested on **Grok 4**, **Claude 3.5**, **GPT-4o**, **GPT-5** – outputs 100% reproducible.*
 
@@ -112,6 +113,46 @@
 [Prompt →](python_beginner_prompt.txt) | [Output →](python_begginner_output.txt)
 </details>
 
+<details>
+<summary><b>#08 Road Accident Statistics & Hypothesis Testing (Nov 6)</b></summary>
+
+**Goal**: Multi-country comparative analysis testing hypothesis about technology producers vs. consumers in automotive safety  
+**Platform**: Not specified  
+**Word count**: ~1,500 words + 3 detailed tables  
+
+**Context**: Economics research exploring whether countries that produce automotive technology (Japan, Germany) demonstrate superior road safety outcomes compared to technology-importing nations (Kenya).
+
+**Key features**:
+- 10-variable statistical comparison across 3 countries (2022-2024)
+- Transparent methodology: Step-by-step data sourcing and calculation
+- Three year-by-year comparison tables with derived metrics
+- Cross-referenced multiple authoritative sources (WHO, World Bank, MLIT, KBA, NTSA, OICA)
+- Hypothesis validation with statistical evidence
+- Computed complex derived metrics (accidents per car owner, fatalities per accident, ownership ratios)
+
+**Variables analyzed**:
+1. Total population (World Bank, UN DESA)
+2. Total vehicles (national registries)
+3. Car ownership rates & proportions
+4. Average age of vehicle owners
+5. Total accidents per year
+6. Accident rates per car owner
+7. Average age of drivers in accidents
+8. Road fatalities
+9. Fatality-to-accident ratios
+10. Source documentation for transparency
+
+**Key findings**:
+- Japan/Germany: >60% car ownership, <0.01% fatality-per-accident ratio
+- Kenya: <7% car ownership, ~0.03% fatality ratio (3x higher)
+- Older average driver age in producer countries correlates with safer outcomes
+- Hypothesis confirmed: Technology producers demonstrate superior safety metrics
+
+**Skills demonstrated**: Statistical research design, multi-source data triangulation, transparent methodology documentation, hypothesis-driven analysis, comparative economics, data synthesis across government/international databases
+
+[Prompt →](Road_accident_statistics_prompt.txt) | [Output →](Road_accident_statistics_output.txt)
+</details>
+
 ---
 
 ## My 5-Step Prompt Framework (Used in Every Example)
@@ -132,11 +173,12 @@
 ```text
 Prompt Design          █████████████▒  95%
 Data-Driven Output     ███████████▒▒▒  90%
+Statistical Analysis   ██████████████▒  96%
+Research Methodology   ████████████▒▒  93%
 Markdown / HTML        ███████████████ 100%
 Grok 4 API             ██████████████▒  98%
 Claude Sonnet 4        ████████████▒▒  92%
 GPT-5 (OpenAI)         ███████████████ 100%
-Research & Analysis    ██████████████▒  96%
 SEO Optimization       ████████████▒▒  91%
 ```
 
@@ -160,4 +202,4 @@ SEO Optimization       ████████████▒▒  91%
 
 ---
 
-*Last Updated: November 2, 2025*
+*Last Updated: November 6, 2025*
