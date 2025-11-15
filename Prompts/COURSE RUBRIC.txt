@@ -1,0 +1,29 @@
+COURSE RUBRIC
+
+Certificate is a must (10/10)
+In depth course ensuring mastery of content and near perfection (8-9/10)
+Hands on experience for the learner (8-9/10)
+Moderately paced course for beginners’ hand holding would be very much appreciated. (7/10)
+Learner is not in a hurry to complete course; learner seeks mastery and competence. (7/10)
+Tutor is engaging, patient, and effective especially with absolute beginners. (use learner reviews). (9/10)
+Possible project portfolios. (6-8/10)
+I want you to deep dive and act as a researcher and a coach for a beginner. Using this rubric (save it as Course Rubric):
+
+Recommend top three courses (platform and length) for a beginner in the following Subjects areas; Use your Bias in recommendations & ranking and document it
+a)	SQL + Excel
+b)	Machine Learning
+c)	Power BI
+d)	AWS
+e)	Financial Modelling and Business Valuation
+f)	Automation
+
+Using the same rubric, recommend the top three courses for the following roles. From your findings, alight the courses to each role that would best prepare one for the role: Use your Bias in recommendations & ranking and document it
+a)	Quant trader
+b)	Business Analyst
+c)	Business Intelligence Analyst
+d)	Data Architect
+e)	Data Analyst
+f)	Data Scientist
+g)	Python Developer
+h)	Data Engineer
+i)	Data Manager
